@@ -1,0 +1,60 @@
+h1 {
+  font-size: 30px;
+}
+
+h3 {
+  color: #888888;
+}
+#map {
+  position:absolute;
+  width: 47%;
+  right:3%;
+  top:3%;
+  bottom: 3%;
+
+}
+
+.side-bar {
+  width: 47%;
+  position:absolute;
+  left:3%;
+  height: 100%;
+
+}
+
+#back-to-initial {
+  width:45px;
+  height:32px;
+  font-size: 16px;
+  position: absolute;
+  bottom: 20%;
+  left: 30px;
+}
+
+#back {
+  width: 45px;
+  height: 32px;
+  font-size: 16px;
+  position: absolute;
+  bottom: 20%;
+  left:75px;
+}
+
+#next {
+  width: 45px;
+  height: 32px;
+  font-size: 16px;
+  position: absolute;
+  bottom: 20%;
+  right:120px;
+}
+
+
+#to-the-end {
+  width: 45px;
+  height: 32px;
+  font-size: 16px;
+  position: absolute;
+  bottom: 20%;
+  right:75px;
+}
